@@ -13,7 +13,14 @@ And perhaps so someone will fork it and make a better version.
 
 ## Installing
 
-To install the Align extension, download the latest `qupath-extension-align-[version].jar` file from [releases](https://github.com/qupath/qupath-extension-align/releases) and drag it onto the main QuPath window.
+The QuPath Align extension can be downloaded and managed within QuPath using 
+the extension mananger which can be found under the menu `Extensions -> Manage Extensions`. 
+The extension will be listed under "QuPath catalog" and can be downloaded and installed 
+by selecting the green plus button. 
+
+Alternatvley, the align extension can be installed by downloading the latest 
+`qupath-extension-align-[version].jar` file from [releases](https://github.com/qupath/qupath-extension-align/releases) 
+and drag it onto the main QuPath window.
 
 If you haven't installed any extensions before, you'll be prompted to select a QuPath user directory.
 The extension will then be copied to a location inside that directory.
